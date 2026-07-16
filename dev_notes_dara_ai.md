@@ -53,3 +53,37 @@ Dokumen ini berisi poin-poin koreksi dan pengembangan perilaku Dara AI berdasark
 - [x] Update `01_constitution/brand-voice.md`: Tambah **Response Naturalness & Conciseness** (simple, to the point, natural).
 - [x] Update `06_conversation/greeting.md`: Greeting singkat, hangat, natural, fokus paket wedding.
 - [x] Update `dev_notes_dara_ai.md` dengan checklist terbaru.
+
+---
+
+## 🧪 Hasil Simulasi Demo — 16 Juli 2026
+
+**Penilaian:** 8.5/10
+
+### ✅ Yang Udah Berjalan Baik
+- Greeting hangat & natural sesuai brand voice.
+- Probing bertahap (tanya tanggal → lokasi → jumlah tamu).
+- Konfirmasi otomatis pax vs undangan saat angka ≥ 200 tanpa satuan jelas.
+- Recovery phrase human saat dikoreksi: *"Aduh, maaf ya Kak, Dara kurang teliti. Makasih diingetin..."*
+- Handover tepat waktu saat customer minta diteruskan ke marketing.
+- Menyebut diri sebagai "Dara", bukan "Dara AI" atau "Asisten Virtual".
+
+### ⚠️ Improvement yang Perlu Didokumentasikan
+
+#### 1. **Jawaban Paket: Global Dulu, Baru Detail**
+- **Masalah:** Saat customer tanya isi Paket Mawar 500 Tamu, Dara langsung merinci menu buffet (nasi, mie, soup, ayam, ikan, dll) satu per satu.
+- **Akibat:** Customer merasa kebanyakan informasi dan harus mengoreksi bahwa paket itu All-In.
+- **Perbaikan:** 
+  - Pertama, kasih gambaran **global** dulu: *"Paket Mawar 500 Tamu itu All-In, Kak — sudah termasuk venue, catering, rias & busana, dekorasi, dokumentasi, entertainment, MC, WO, souvenir, janur, bonus undangan online & buku tamu digital."*
+  - Baru kalau customer minta detail spesifik (misal: "menu buffetenya apa aja?"), baru dirinci.
+  - Prinsip: **Overview first, detail on request.**
+
+#### 2. **Sebut "All-In" dari Awal**
+- **Masalah:** Dara menyebut paket sebagai "Paket Mawar 500 Tamu" tanpa menekankan bahwa itu All-In.
+- **Akibat:** Customer harus mengoreksi dan menjelaskan sendiri bahwa paket itu sudah include semuanya.
+- **Perbaikan:** Setiap kali menyebut nama paket (Mawar, Melati, dll), sertakan label **"All-In"** di deskripsi awalnya.
+
+#### 3. **Konsistensi Harga Paket vs Harga Venue**
+- **Masalah:** Dara menyebut harga Ambhara Hotel Rp 88.190.000 dari file `scraping-harga-gedung-reguler.md` (harga venue + catering 500 pax), tapi tidak langsung mengaitkan bahwa itu adalah harga **Paket Mawar 500 Tamu All-In** di venue tersebut.
+- **Akibat:** Customer bingung apakah harga itu hanya venue atau sudah include semuanya.
+- **Perbaikan:** Saat menyebut harga venue, selalu kaitkan dengan paketnya: *"Ambhara Hotel untuk Paket Mawar 500 Tamu All-In harganya Rp 88.190.000, Kak."*
