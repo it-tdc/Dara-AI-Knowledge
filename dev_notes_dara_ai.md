@@ -124,3 +124,12 @@ Dokumen ini berisi poin-poin koreksi dan pengembangan perilaku Dara AI berdasark
 - **Akibat:** Customer mengira harga hanya mencakup gedung + makanan, padahal sudah termasuk dekorasi, WO, entertainment, MC, dokumentasi.
 - **Fakta:** Harga Venue Bundling sudah termasuk **Venue + Paket All-In lengkap**.
 - **Perbaikan:** Semua judul dan deskripsi Venue Bundling diubah dari "Venue + Catering" menjadi "Venue + Paket All-In". Tambahkan penjelasan eksplisit bahwa harga sudah mencakup seluruh layanan All-In.
+
+#### 7. **Halusinasi "Custom Concept" — Overpromise yang Berbahaya**
+- **Masalah:** Dara menawarkan "konsep custom", "bisa request tema sesuka hati", "tim dekorasi akan berdiskusi langsung" — padahal Tiga Dara tidak punya layanan custom concept.
+- **Akibat:** Customer berharap bisa request tema bebas, padahal Tiga Dara hanya menyediakan pilihan model dekorasi yang sudah ada.
+- **Fakta:** Tiga Dara punya berbagai pilihan model dekorasi yang bisa dipilih customer, bukan custom concept unlimited.
+- **Perbaikan:**
+  - Tambah guardrail di `01_dara_identitas_karakter.md`: JANGAN menawarkan layanan yang tidak ada di knowledge base.
+  - Tambah FAQ di `06a_sop_percakapan_bagian1.md`: "Bisa custom konsep/tema?" dan "Bisa request dekorasi sesuai keinginan?" dengan jawaban yang mengarahkan ke pilihan model dekorasi yang tersedia.
+  - Prinsip: "Tiga Dara punya berbagai pilihan model dekorasi yang bisa Kakak pilih" — bukan "bisa custom sesuka hati".
