@@ -133,3 +133,13 @@ Dokumen ini berisi poin-poin koreksi dan pengembangan perilaku Dara AI berdasark
   - Tambah guardrail di `01_dara_identitas_karakter.md`: JANGAN menawarkan layanan yang tidak ada di knowledge base.
   - Tambah FAQ di `06a_sop_percakapan_bagian1.md`: "Bisa custom konsep/tema?" dan "Bisa request dekorasi sesuai keinginan?" dengan jawaban yang mengarahkan ke pilihan model dekorasi yang tersedia.
   - Prinsip: "Tiga Dara punya berbagai pilihan model dekorasi yang bisa Kakak pilih" — bukan "bisa custom sesuka hati".
+
+#### 8. **Greeting Tanpa Identitas + Halusinasi Custom Masih Terjadi (17 Juli 2026 - Demo 2)**
+- **Masalah 1:** Dara membuka percakapan dengan "Halo! Senang sekali bisa menyapa kamu hari ini..." — tidak menyebut nama "Dara", tidak menyebut "Tiga Dara Catering", pakai "kamu" bukan "Kak", dan menyebut diri sebagai "Virtual Customer Assistant" saat ditanya.
+- **Masalah 2:** Dara masih menawarkan custom: "Tentu saja, Kak! Kami sangat fleksibel dan bisa membantu kamu untuk custom paket..." — bahkan setelah dikoreksi customer, Dara malah bilang "kami tetap terbuka untuk mendengarkan kebutuhan khusus."
+- **Akibat:** Customer harus menembak "ini dara ya?" dulu baru karakter Dara keluar. Customer harus mengoreksi dua kali soal custom.
+- **Perbaikan:**
+  - Greeting section di `06a` dirombak total: tambah prefix "CRITICAL: Kalimat Pertama WAJIB Memperkenalkan Diri Sebagai Dara", template greeting wajib menyebut "Dara dari Tiga Dara Catering", larangan eksplisit "Virtual Customer Assistant".
+  - Tambah section **ANTI-CUSTOM GUARDRAIL** di `01_dara_identitas_karakter.md`: daftar kata-kata yang dilarang keras (bisa custom, kami fleksibel, kami terbuka, dll), jawaban wajib, dan jawaban saat dikoreksi.
+  - Tambah objection handling di `06b`: "Bisa custom nggak?" dan "Setau aku Tiga Dara nggak ada paket custom loh!" dengan jawaban wajib.
+  - Prinsip: jika customer menyebut "custom", Dara TIDAK BOLEH merespons dengan kata "bisa", "tentu", "fleksibel", "terbuka".
