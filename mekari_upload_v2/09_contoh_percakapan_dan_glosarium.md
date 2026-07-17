@@ -88,7 +88,7 @@ Ciri-ciri:
 
 **Cold Lead** - Lead yang baru bertanya umum dan belum punya rencana jelas.
 
-**All-In** - Paket yang sudah mencakup seluruh layanan (venue, catering, dekorasi, rias & busana, dokumentasi, entertainment, MC, WO, souvenir) dalam satu harga.
+**All-In** - Paket yang sudah mencakup seluruh layanan (catering, dekorasi, rias & busana, dokumentasi, entertainment, MC, WO, souvenir) dalam satu harga. **Tidak termasuk venue.** Untuk paket dengan venue, disebut **All-In + Gedung**.
 
 **Test Food** - Acara mencicipi makanan yang diselenggarakan Tiga Dara di venue partner, gratis registrasi.
 

@@ -13,10 +13,10 @@
 "Rentang **Rp 47jt-113jt**. Area preferensi di mana Kak?"
 
 **Customer: "Paket wedding all-in berapa?"**
-"Bisa **Akad hemat Rp 7.5jt**, **Intimate 200 pax Rp 37.7jt**, **Gedung 500 pax Rp 56-68jt**, **Premium 800-1200 pax Rp 90-178jt**. Butuh berapa pax Kak?"
+"Paket **All-In** standar kami (catering, dekorasi, WO, entertainment, MC, dokumentasi - **belum termasuk venue**) mulai dari **Rp 56jt untuk 500 pax (Paket Mawar)**. Kalau butuh venue juga, bisa pilih **All-In + Gedung**. Mau Dara bantu rekomendasikan?"
 
 **Customer: "Paket rumahan berapa?"**
-"**Tanpa catering Rp 12jt**, **All-in 300 pax Rp 45jt**, **500 pax Rp 49jt**, **1000 pax Rp 69jt**. Ada juga **Rasa Gedung** (tenda mewah) 500 pax **Rp 74jt**."
+"Paket rumahan untuk acara di **rumah** ya Kak (bukan di gedung). **Tanpa catering mulai Rp 12jt**, **All-in 300 pax Rp 45jt**, **500 pax Rp 49jt**, **1000 pax Rp 69jt**. Kalau acaranya di gedung, ada **Paket Gedung All-In** 500 pax **Rp 74jt**."
 
 **Customer: "Harga catering per pax?"**
 "Prasmanan standar **~Rp 185k/pax** (min 200), Nasi Box **~Rp 95k/box** (min 100). Untuk detail menu & final, Dara teruskan ke tim ya."
@@ -106,41 +106,54 @@ Harga sudah termasuk catering 200 pax. Cocok untuk wedding intimate/akad.
 **Harga termurah:** Masjid Al Hidayah Pamulang - **Rp 47.790.000**
 **Harga termahal:** Gedung Unity Ballroom - **Rp 113.090.000**
 
-## 3. Paket Wedding All-In (Venue + Catering + Deco + WO + Entertainment + Dokumentasi)
+## 3. Paket Wedding All-In (Catering + Dekorasi + WO + Entertainment + MC + Dokumentasi)
+
+**PENTING:** Paket All-In **tidak termasuk venue**. Jika customer butuh venue, arahkan ke **All-In + Gedung** (lihat section 1: Venue Bundling).
+
+### Paket Standar (Selalu Ditawarkan)
+
+**Paket Mawar 500 Tamu** - **Rp 59.700.000** (PAKET UTAMA / HIGHLIGHT)
+- Paket standar paling worth-it dan paling direkomendasikan.
+- Sudah termasuk: catering buffet & pondokan, rias & busana, dekorasi, dokumentasi, entertainment, MC, WO, souvenir, janur, bonus undangan online & buku tamu digital.
+- **Tidak termasuk venue.** Untuk venue, lihat section Venue Bundling.
+
+**Paket Melati 500 Tamu** - **Rp 56.700.000**
+- Alternatif paket standar dengan cakupan serupa Paket Mawar.
+
+### Paket Lainnya (Tawarkan Sesuai Kebutuhan Customer)
 
 **Akad Nikah (Hemat)** - 50-100 pax - **Rp 7.500.000 - Rp 16.500.000**
 - Akad Nikah Super Hemat: Rp 7.500.000
 - Akad Nikah Hemat Lengkap + MC: Rp 16.500.000
 
 **Pemberkatan Nikah** - 50 pax - **Rp 11.500.000**
-- Paket Pemberkatan Nikah: Rp 11.500.000
 
 **Intimate (Akad + Resepsi)** - 200 pax - **Rp 37.700.000**
-- Paket Pernikahan Intimate: Rp 37.700.000
 
 **Gedung Adat** - 500 pax - **Rp 63.700.000 - Rp 68.700.000**
 - Jenis: Bugis, Palembang, Lampung, Sunda, Mandailing, Jawa, Minang
-- Paket Gedung Adat Sunda: Rp 63.700.000
-- Paket Minang B: Rp 68.700.000
 
-**Gedung Bunga** - 300-1500 pax - **Rp 50.700.000 - Rp 178.700.000**
-- Nama paket: Mawar, Melati, Anggrek, Tulip, Sakura, Edelweiss, Black Rose, Black Orchid, Dahlia, Lavender, Violet
+**Gedung Bunga (Non-Premium)** - 300-1500 pax - **Rp 50.700.000 - Rp 92.700.000**
+- Nama paket: Mawar, Melati, Anggrek, Tulip, Sakura, Edelweiss, Lavender, Violet
 - Mawar 500 pax: Rp 59.700.000
 - Melati 500 pax: Rp 56.700.000
 - Tulip E 1200 pax: Rp 92.700.000
-- Dahlia 1200 pax: Rp 178.700.000
 
-**Premium Type** - 800-1200 pax - **Rp 155.700.000 - Rp 178.700.000**
-- Black Rose 800 pax: Rp 155.700.000
-- Black Orchid: harga setara
-- Dahlia 1200 pax: Rp 178.700.000
+### Paket Premium (HANYA Ditawarkan Jika Customer Minta Kelas Premium)
+
+**PENTING:** Paket di bawah ini adalah paket kelas atas. JANGAN ditawarkan ke customer umum. Hanya sebutkan jika customer secara spesifik meminta paket premium atau budget tinggi.
+
+- **Black Rose** - 800 pax - **Rp 155.700.000**
+- **Black Orchid** - harga setara Black Rose
+- **Dahlia** - 1200 pax - **Rp 178.700.000** (termasuk honeymoon ticket, wedding cake, mobil pengantin, acrylic floor)
 
 **Paket termurah:** Akad Nikah Super Hemat - **Rp 7.500.000** (hanya akad, no catering)
-**Paket terlengkap premium:** Dahlia 1200 pax - **Rp 178.790.000** (termasuk honeymoon ticket, wedding cake, mobil pengantin, acrylic floor)
 
 **Catatan:** Acara malam +Rp 1.000.000 dari harga paket. DP 2026 mengikat harga 2027.
 
-## 4. Paket Wedding Rumahan (Di Rumah/Villa Customer)
+## 4. Paket Wedding Rumahan (Acara di Rumah, Bukan di Gedung)
+
+**PENTING:** Paket Rumahan = acara di **rumah** (rumah orang tua, rumah keluarga). Jika customer mengadakan acara di gedung/venue, arahkan ke **Paket Gedung All In** (customer menyediakan venue sendiri, Tiga Dara menyediakan semua layanan).
 
 **Tanpa Catering** (Dekor + Rias + Dokumentasi + Alat) - 100-150 pax - **Rp 12.250.000 - Rp 23.250.000**
 - Termasuk tenda, kursi, panggung, rias, deco, dokumentasi, alat catering & masak
@@ -154,7 +167,7 @@ Harga sudah termasuk catering 200 pax. Cocok untuk wedding intimate/akad.
 - 800 pax: **Rp 64.800.000** - Sama di atas, catering 800 porsi
 - 1000 pax: **Rp 69.800.000** - Sama di atas, catering 1000 porsi
 
-**Rasa Gedung All-In** (Full Tenda Mewah 200m+):
+**Paket Gedung All-In** (Untuk acara di gedung/venue, customer menyediakan venue sendiri):
 - 500 pax: **Rp 74.200.000** - Tenda 200m, 100 kursi futura, panggung 8x4m, full deco hotel
 - 1000 pax: **Rp 104.200.000** - Tenda 250m, 150 kursi, panggung 8x4m, full deco hotel
 
@@ -162,7 +175,7 @@ Harga sudah termasuk catering 200 pax. Cocok untuk wedding intimate/akad.
 - Termasuk busana adat suntiang, deco adat, dokumentasi, alat catering & masak
 
 **Paket rumahan termurah:** Tanpa catering basic - **Rp 12.250.000**
-**Paket rumahan terlengkap:** Rasa Gedung All-In 1000 pax - **Rp 104.240.000**
+**Paket gedung terlengkap:** Gedung All-In 1000 pax - **Rp 104.240.000**
 
 ## 5. Catering Standalone (Referensi Harga Per Pax)
 

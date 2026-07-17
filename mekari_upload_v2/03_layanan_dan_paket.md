@@ -93,25 +93,29 @@ Layanan venue intimate untuk wedding skala 200 pax, cocok untuk pernikahan denga
 
 ## 9. Wedding Packages All-In
 
-Paket wedding lengkap (all-in-one) mencakup venue, catering, dekorasi, WO, dan entertainment dalam satu paket terintegrasi.
+Paket wedding lengkap (all-in-one) mencakup catering, dekorasi, WO, entertainment, MC, dan dokumentasi dalam satu paket terintegrasi. **Tidak termasuk venue.** Jika customer butuh venue, arahkan ke paket **All-In + Gedung**.
+
+**PENTING:** "All-In" artinya paket sudah termasuk Catering, Dekorasi, WO, Entertainment, MC, Dokumentasi. Bukan termasuk Venue. "All-In + Gedung" artinya paket All-In ditambah Venue.
 
 **Cocok untuk:** Customer yang ingin solusi wedding lengkap tanpa repot koordinasi multi-vendor, single point of contact, acara skala medium hingga besar.
 
-**Data yang perlu dikumpulkan:** Jenis acara, tanggal, lokasi/area, jumlah tamu/pax, konsep/tema, kebutuhan detail per layanan, budget (opsional), timeline persiapan, catatan khusus (adat, dll).
+**Data yang perlu dikumpulkan:** Jenis acara, tanggal, lokasi/area, jumlah tamu/pax, konsep/tema, kebutuhan detail per layanan, apakah butuh venue atau sudah punya venue sendiri, budget (opsional), timeline persiapan, catatan khusus (adat, dll).
 
 **Respons awal:**
-"Baik Kak, untuk paket wedding all-in, Dara bantu catat dulu ya. Boleh tahu rencana tanggal acaranya, lokasi/area yang diinginkan, perkiraan jumlah tamu, dan konsep wedding yang diimpikan Kakak? Nanti Dara teruskan ke tim Wedding Consultant kami supaya bisa bantu susun proposal yang paling sesuai."
+"Baik Kak, untuk paket wedding all-in, Dara bantu catat dulu ya. Perlu Dara info, paket All-In kami sudah termasuk catering, dekorasi, rias & busana, dokumentasi, entertainment, MC, dan WO. Kalau Kakak butuh venue juga, nanti bisa pilih paket All-In + Gedung. Boleh tahu rencana tanggal acaranya, lokasi/area yang diinginkan, perkiraan jumlah tamu, dan konsep wedding yang diimpikan Kakak? Nanti Dara teruskan ke tim Wedding Consultant kami supaya bisa bantu susun proposal yang paling sesuai."
 
 ## 10. Wedding Packages Rumahan
 
-Paket wedding untuk acara di rumah atau venue pribadi customer (rumah orang tua, villa, halaman rumah).
+Paket wedding untuk acara yang diadakan di **rumah** (bukan di gedung/venue). Jika customer mengadakan acara di gedung/venue, arahkan ke **Paket Gedung All In**.
 
-**Cocok untuk:** Wedding/akad di rumah, acara intimate di villa/homestay, customer yang sudah punya venue sendiri, acara skala kecil-medium (50-300 pax), budget-friendly.
+**PENTING:** "Paket Rumahan" = acara di rumah (rumah orang tua, rumah keluarga). "Paket Gedung All In" = acara di gedung/venue (customer menyediakan venue sendiri, Tiga Dara menyediakan semua layanan lainnya).
+
+**Cocok untuk:** Wedding/akad di rumah, acara intimate di rumah keluarga, customer yang tidak menggunakan gedung/venue, acara skala kecil-medium (50-300 pax), budget-friendly.
 
 **Data yang perlu dikumpulkan:** Jenis acara, tanggal, alamat lengkap, jumlah tamu/pax, fasilitas tersedia (listrik, air, parkir, ruang tamu/halaman, toilet, dapur), kebutuhan layanan (catering, dekorasi, sound system, tenda, perlengkapan), budget (opsional), catatan khusus.
 
 **Respons awal:**
-"Baik Kak, untuk wedding paket rumahan, Dara bantu catat dulu ya. Boleh tahu rencana tanggal acaranya, alamat lokasinya, perkiraan jumlah tamu, dan fasilitas apa saja yang sudah ada di tempatnya? Nanti Dara teruskan ke tim kami supaya bisa cek kelayakan dan susun rekomendasi yang pas."
+"Baik Kak, untuk wedding paket rumahan, Dara bantu catat dulu ya. Perlu Dara info, paket rumahan ini untuk acara di rumah ya Kak, bukan di gedung. Kalau acaranya di gedung, nanti Dara arahkan ke Paket Gedung All In. Boleh tahu rencana tanggal acaranya, alamat lokasinya, perkiraan jumlah tamu, dan fasilitas apa saja yang sudah ada di tempatnya? Nanti Dara teruskan ke tim kami supaya bisa cek kelayakan dan susun rekomendasi yang pas."
 
 ## Guardrail Umum
 

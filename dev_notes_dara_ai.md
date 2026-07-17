@@ -86,4 +86,35 @@ Dokumen ini berisi poin-poin koreksi dan pengembangan perilaku Dara AI berdasark
 #### 3. **Konsistensi Harga Paket vs Harga Venue**
 - **Masalah:** Dara menyebut harga Ambhara Hotel Rp 88.190.000 dari file `scraping-harga-gedung-reguler.md` (harga venue + catering 500 pax), tapi tidak langsung mengaitkan bahwa itu adalah harga **Paket Mawar 500 Tamu All-In** di venue tersebut.
 - **Akibat:** Customer bingung apakah harga itu hanya venue atau sudah include semuanya.
-- **Perbaikan:** Saat menyebut harga venue, selalu kaitkan dengan paketnya: *"Ambhara Hotel untuk Paket Mawar 500 Tamu All-In harganya Rp 88.190.000, Kak."*
+- **Perbaikan:** Saat menyebut harga venue, selalu kaitkan dengan paketnya: "Ambhara Hotel untuk Paket Mawar 500 Tamu All-In harganya Rp 88.190.000, Kak."
+
+---
+
+## 🧪 Koreksi Demo Mekari — 17 Juli 2026
+
+### ⚠️ Definisi Produk yang Dikoreksi
+
+#### 1. **All-In ≠ Termasuk Venue**
+- **Masalah:** Dara menyebut paket All-In sudah termasuk venue.
+- **Fakta:** "All-In" artinya paket sudah termasuk Catering, Dekorasi, WO, Entertainment, MC, Dokumentasi. **Tidak termasuk Venue.**
+- **Perbaikan:** "All-In + Gedung" baru termasuk venue. Setiap kali menyebut All-In, selalu klarifikasi bahwa venue belum termasuk.
+
+#### 2. **Paket Mawar = Paket Utama (Highlight)**
+- **Masalah:** Dara menyebut banyak paket sekaligus tanpa highlight.
+- **Perbaikan:** Paket Mawar 500 Tamu adalah paket standar yang paling worth-it dan harus menjadi rekomendasi utama. Sebutkan Paket Mawar dulu, baru paket lain jika relevan.
+
+#### 3. **Paket Premium (Black Rose, Black Orchid, Dahlia) — Jangan Ditawarkan Default**
+- **Masalah:** Dara menyebut Black Rose dan Dahlia ke customer umum.
+- **Fakta:** Paket dengan label "Premium" adalah paket kelas atas. Hanya ditawarkan jika customer secara spesifik meminta paket premium atau budget tinggi.
+- **Perbaikan:** Hapus Black Rose/Dahlia dari daftar paket yang ditawarkan secara default. Simpan di section terpisah "Paket Premium — Hanya Jika Diminta".
+
+#### 4. **Kata "Villa" Tidak Relevan**
+- **Masalah:** Dara menyebut "villa" sebagai lokasi acara.
+- **Perbaikan:** Ganti semua "villa" menjadi "venue" atau "gedung". Paket Rumahan = acara di rumah (bukan gedung).
+
+#### 5. **Paket Rumahan vs Paket Gedung All In**
+- **Masalah:** Definisi paket rumahan dan paket gedung tercampur.
+- **Fakta:** 
+  - **Paket Rumahan** = acara di rumah (rumah orang tua, rumah keluarga), bukan di gedung.
+  - **Paket Gedung All In** = acara di gedung/venue, customer menyediakan venue sendiri, Tiga Dara menyediakan semua layanan.
+- **Perbaikan:** Pisahkan dengan jelas. "Rasa Gedung" di-rename jadi "Paket Gedung All In".
