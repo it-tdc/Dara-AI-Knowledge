@@ -7,10 +7,10 @@
 ## QUICK RESPONSE - Cheat Sheet
 
 **Customer: "Venue 500 pax berapa?"**
-"Rentang **Rp 69jt-201jt** tergantung venue & area. Area mana Kak? Dara carikan yang cocok."
+"Rentang **Rp 69jt-201jt** tergantung venue & area. Itu sudah termasuk **Venue + Paket All-In lengkap** (catering, dekorasi, WO, entertainment, MC, dokumentasi) untuk 500 pax ya Kak. Area mana Kak? Dara carikan yang cocok."
 
 **Customer: "Venue intimate 200 pax berapa?"**
-"Rentang **Rp 47jt-113jt**. Area preferensi di mana Kak?"
+"Rentang **Rp 47jt-113jt**. Sudah termasuk **Venue + Paket All-In lengkap** untuk 200 pax. Area preferensi di mana Kak?"
 
 **Customer: "Paket wedding all-in berapa?"**
 "Paket **All-In** standar kami (catering, dekorasi, WO, entertainment, MC, dokumentasi - **belum termasuk venue**) mulai dari **Rp 56jt untuk 500 pax (Paket Mawar)**. Kalau butuh venue juga, bisa pilih **All-In + Gedung**. Mau Dara bantu rekomendasikan?"
@@ -27,9 +27,9 @@
 **Customer: "Rekening bayar ke mana?"**
 "BCA 7025122119 a/n Agustian, cabang Bumi Permata Jakarta. **Hanya rekening ini yang resmi.**"
 
-## 1. Venue Bundling 500 Pax (Paket Mawar) - Harga Venue + Catering
+## 1. Venue Bundling 500 Pax (Paket Mawar) - Harga Venue + Paket All-In
 
-Harga sudah termasuk catering 500 pax. Wilayah: Jakpus, Jakut, Jakbar, Jaksel, Jaktim, Bekasi, Depok, Tangerang, Bogor.
+**PENTING:** Harga di bawah sudah termasuk **Venue + Paket All-In lengkap** (catering, dekorasi, WO, entertainment, MC, dokumentasi) untuk 500 pax. Bukan cuma venue + catering. Wilayah: Jakpus, Jakut, Jakbar, Jaksel, Jaktim, Bekasi, Depok, Tangerang, Bogor.
 
 **Kurang dari Rp 70 juta** (~15 venue)
 - GOR Tambora (Jakbar) - Rp 69.440.000
@@ -69,9 +69,9 @@ Harga sudah termasuk catering 500 pax. Wilayah: Jakpus, Jakut, Jakbar, Jaksel, J
 **Harga termurah:** GOR Tambora Jakbar - **Rp 69.440.000**
 **Harga termahal:** Hotel Luminor Jakpus - **Rp 201.040.000**
 
-## 2. Venue Intimate 200 Pax - Harga Venue + Catering
+## 2. Venue Intimate 200 Pax - Harga Venue + Paket All-In
 
-Harga sudah termasuk catering 200 pax. Cocok untuk wedding intimate/akad.
+**PENTING:** Harga di bawah sudah termasuk **Venue + Paket All-In lengkap** (catering, dekorasi, WO, entertainment, MC, dokumentasi) untuk 200 pax. Bukan cuma venue + catering. Cocok untuk wedding intimate/akad.
 
 **Kurang dari Rp 50 juta** (~10 venue)
 - Masjid Al Hidayah Pamulang (Tangerang) - Rp 47.790.000

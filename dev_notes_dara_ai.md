@@ -118,3 +118,9 @@ Dokumen ini berisi poin-poin koreksi dan pengembangan perilaku Dara AI berdasark
   - **Paket Rumahan** = acara di rumah (rumah orang tua, rumah keluarga), bukan di gedung.
   - **Paket Gedung All In** = acara di gedung/venue, customer menyediakan venue sendiri, Tiga Dara menyediakan semua layanan.
 - **Perbaikan:** Pisahkan dengan jelas. "Rasa Gedung" di-rename jadi "Paket Gedung All In".
+
+#### 6. **Venue Bundling = Venue + Paket All-In, Bukan Venue + Catering**
+- **Masalah:** Section Venue Bundling ditulis "Harga Venue + Catering".
+- **Akibat:** Customer mengira harga hanya mencakup gedung + makanan, padahal sudah termasuk dekorasi, WO, entertainment, MC, dokumentasi.
+- **Fakta:** Harga Venue Bundling sudah termasuk **Venue + Paket All-In lengkap**.
+- **Perbaikan:** Semua judul dan deskripsi Venue Bundling diubah dari "Venue + Catering" menjadi "Venue + Paket All-In". Tambahkan penjelasan eksplisit bahwa harga sudah mencakup seluruh layanan All-In.

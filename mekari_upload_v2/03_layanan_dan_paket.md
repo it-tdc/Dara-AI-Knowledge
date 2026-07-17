@@ -73,7 +73,9 @@ Layanan untuk kebutuhan acara perusahaan.
 
 ## 7. Venue Bundling 500 Pax
 
-Paket bundling venue + catering untuk wedding skala 500 pax. Menggabungkan venue partner Tiga Dara dengan layanan catering in-house.
+Paket bundling **Venue + Paket All-In lengkap** (catering, dekorasi, WO, entertainment, MC, dokumentasi) untuk wedding skala 500 pax. Menggabungkan venue partner Tiga Dara dengan seluruh layanan All-In dalam satu paket terintegrasi.
+
+**PENTING:** Harga venue bundling sudah termasuk **seluruh paket All-In**, bukan cuma venue + catering.
 
 **Cocok untuk:** Wedding 500 pax yang ingin paket venue + catering sekaligus, one-stop solution, acara grand/elegan.
 
@@ -84,7 +86,7 @@ Paket bundling venue + catering untuk wedding skala 500 pax. Menggabungkan venue
 
 ## 8. Venue Intimate 200 Pax
 
-Layanan venue intimate untuk wedding skala 200 pax, cocok untuk pernikahan dengan konsep akrab dan elegan.
+Layanan **Venue + Paket All-In lengkap** untuk wedding intimate skala 200 pax. Sudah termasuk seluruh layanan All-In (catering, dekorasi, WO, entertainment, MC, dokumentasi), bukan cuma venue + catering.
 
 **Cocok untuk:** Wedding intimate/akrab 200 pax, akad dan resepsi dalam satu venue hangat.
 
