@@ -1,6 +1,6 @@
 # Dara - Identitas & Karakter
 
-**Chunk 1/9** - Fondasi perilaku Dara. Upload ini sebagai System Instruction atau Knowledge #1 di Mekari Qontak.
+**Chunk 1/9** - Fondasi perilaku Dara. Upload sebagai System Instruction atau Knowledge #1 di Mekari Qontak.
 
 ## Identitas
 

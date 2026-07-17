@@ -6,14 +6,12 @@
 
 Tiga Dara menyediakan layanan lengkap untuk kebutuhan acara:
 
-| Layanan | Deskripsi Singkat |
-|---------|-------------------|
-| **Wedding** | Akad, resepsi, intimate hingga skala besar |
-| **Catering** | Prasmanan, nasi box, buffet untuk berbagai acara |
-| **Dekorasi** | Konsep dan dekorasi sesuai tema acara |
-| **Wedding Organizer** | Pendampingan persiapan dan pelaksanaan acara |
-| **Entertainment** | Live band, DJ, MC, performer khusus |
-| **Corporate Events** | Meeting, seminar, gathering, launching, training |
+- **Wedding** - Akad, resepsi, intimate hingga skala besar
+- **Catering** - Prasmanan, nasi box, buffet untuk berbagai acara
+- **Dekorasi** - Konsep dan dekorasi sesuai tema acara
+- **Wedding Organizer** - Pendampingan persiapan dan pelaksanaan acara
+- **Entertainment** - Live band, DJ, MC, performer khusus
+- **Corporate Events** - Meeting, seminar, gathering, launching, training
 
 ## 1. Wedding
 

@@ -45,16 +45,14 @@ Tiga Dara Catering & Wedding Organizer didirikan pada tahun 2017, dengan head of
 
 ## Kontak Resmi
 
-| Info | Detail |
-|------|--------|
-| **WhatsApp** | 08111-36-0930 |
-| **Email** | marketing@tigadaracatering.id |
-| **Website** | www.tigadaracatering.id |
-| **Instagram** | instagram.com/tigadaracatering_official |
-| **TikTok** | tiktok.com/@tigadaracatering.id |
-| **Alamat Kantor** | Jl. Raya Kembangan Selatan, Gg. Chober No.13, RT.04/01, Kembangan - Jakarta Barat |
-| **Google Maps** | https://maps.app.goo.gl/bh2MFpko3sFKVnxe7 |
-| **Jam Operasional** | Selasa-Minggu, 09.00-17.00 WIB (Senin tutup) |
+- **WhatsApp:** 08111-36-0930
+- **Email:** marketing@tigadaracatering.id
+- **Website:** www.tigadaracatering.id
+- **Instagram:** instagram.com/tigadaracatering_official
+- **TikTok:** tiktok.com/@tigadaracatering.id
+- **Alamat Kantor:** Jl. Raya Kembangan Selatan, Gg. Chober No.13, RT.04/01, Kembangan - Jakarta Barat
+- **Google Maps:** https://maps.app.goo.gl/bh2MFpko3sFKVnxe7
+- **Jam Operasional:** Selasa-Minggu, 09.00-17.00 WIB (Senin tutup)
 
 ## Area Layanan
 
@@ -65,12 +63,10 @@ Tiga Dara Catering & Wedding Organizer didirikan pada tahun 2017, dengan head of
 
 ## Rekening Resmi Pembayaran
 
-| Field | Detail |
-|-------|--------|
-| **Nama Rekening** | Agustian |
-| **Bank** | BCA |
-| **No. Rekening** | 7025122119 |
-| **Cabang** | Bumi Permata Jakarta |
+- **Nama Rekening:** Agustian
+- **Bank:** BCA
+- **No. Rekening:** 7025122119
+- **Cabang:** Bumi Permata Jakarta
 
 **PENTING:** Dara **wajib** menyampaikan info rekening ini saat customer mau DP/transfer. Jangan pernah berikan rekening lain.
 
@@ -89,14 +85,12 @@ Tiga Dara Catering & Wedding Organizer didirikan pada tahun 2017, dengan head of
 
 ### Pembatalan & Refund
 
-| Waktu Pembatalan | Kebijakan |
-|---|---|
-| Kapan saja | DP Rp 1.000.000 tidak dapat dikembalikan |
-| Lebih dari 90 hari sebelum H-1 | 50% DP dikembalikan |
-| 60-90 hari sebelum H-1 | 25% DP dikembalikan |
-| 30-59 hari sebelum H-1 | 0% DP dikembalikan |
-| Kurang dari 30 hari sebelum H-1 | 0% DP + tagihan 50% sisa total |
-| Kurang dari 14 hari sebelum H-1 | 0% DP + tagihan 100% total |
+- **Kapan saja:** DP Rp 1.000.000 tidak dapat dikembalikan.
+- **Lebih dari 90 hari sebelum H-1:** 50% DP dikembalikan.
+- **60-90 hari sebelum H-1:** 25% DP dikembalikan.
+- **30-59 hari sebelum H-1:** 0% DP dikembalikan.
+- **Kurang dari 30 hari sebelum H-1:** 0% DP + tagihan 50% sisa total kontrak.
+- **Kurang dari 14 hari sebelum H-1:** 0% DP + tagihan 100% total kontrak.
 
 ### Perubahan (Change Order)
 - **Jumlah pax:** Bisa hingga H-7 sebelum acara.
